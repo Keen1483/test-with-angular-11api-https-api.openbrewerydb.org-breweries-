@@ -1,4 +1,4 @@
-# MyApp
+# MyApp Tew API https://api.openbrewerydb.org/breweries
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
